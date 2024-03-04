@@ -1,0 +1,10 @@
+:root {
+  --header-bg: rgb(239, 233, 224);
+  --main-bg: rgb(228, 232, 238);
+  --text-col: rgb(78 75 70);
+  --main-hover: rgb(164, 164, 164);
+  --matrix-bg: rgb(0, 0, 0);
+  --card-bg: rgba(255, 255, 255, 0.34);
+  --card-text-col:#121f37;
+  --gear-col:rgb(14, 226, 233);
+}

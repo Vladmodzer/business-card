@@ -1,0 +1,5 @@
+footer {
+  height: 113px;
+  background: var(--text-col);
+  display: none;
+}
